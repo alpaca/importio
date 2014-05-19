@@ -20,7 +20,7 @@ def callback(query, message):
   # Disconnect messages happen if we disconnect the client library while a query is in progress
   if message["type"] == "DISCONNECT":
     print "Query in progress when library disconnected"
-    print json.dumps(message["data"], indent = 4)
+    print json.dumps(message, indent = 4)
 
   # Check the message we receive actually has some data in it
   if message["type"] == "MESSAGE":
