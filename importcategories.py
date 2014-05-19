@@ -106,3 +106,6 @@ client.disconnect()
 # Now we can print out the data we got
 print "All data received:"
 print json.dumps(dataRows, indent = 4)
+
+with open("importcategories.json", 'w') as f:
+  json.dump(dataRows, f, indent=4)
