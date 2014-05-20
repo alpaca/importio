@@ -1,7 +1,7 @@
-import logging, json, importio, latch
+import logging, json, importio, latch, os
 
 # To use an API key for authentication, use the following code:
-client = importio.importio(user_id="0be476b1-768d-45cd-8c34-88df0a7ceff6", api_key="rqC+3pL6qJRqk9mmpCOcnyMGhs62nC638ojezenB3CvvcYC78ktioXwlDYVi+1AMNJ/3LuJazy36+fmh5XXwJA==")
+client = importio.importio(user_id=os.getenv('USER_ID'), api_key=os.getenv('API_KEY'))
 
 # Once we have started the client and authenticated, we need to connect it to the server:
 client.connect()
@@ -52,45 +52,6 @@ client.query({
   }
 }, callback)
 
-# Query for tile US Private Schools
-client.query({
-  "connectorGuids": [
-    "6fcbcfc9-dbea-4879-8004-ed6f5ba1f3e1"
-  ],
-  "input": {
-    "school_name": "b"
-  }
-}, callback)
-
-# Query for tile US Private Schools
-client.query({
-  "connectorGuids": [
-    "6fcbcfc9-dbea-4879-8004-ed6f5ba1f3e1"
-  ],
-  "input": {
-    "school_name": "c"
-  }
-}, callback)
-
-# Query for tile US Private Schools
-client.query({
-  "connectorGuids": [
-    "6fcbcfc9-dbea-4879-8004-ed6f5ba1f3e1"
-  ],
-  "input": {
-    "school_name": "d"
-  }
-}, callback)
-
-# Query for tile US Private Schools
-client.query({
-  "connectorGuids": [
-    "6fcbcfc9-dbea-4879-8004-ed6f5ba1f3e1"
-  ],
-  "input": {
-    "school_name": "e"
-  }
-}, callback)
 
 print "Queries dispatched, now waiting for results"
 

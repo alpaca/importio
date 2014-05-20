@@ -1,152 +1,12 @@
 [
     {
+        "county": "Philadelphia", 
+        "school_name": "63RD ST MULTICULTURAL ACAD OF ACADEMIC EXCELLENCE", 
+        "address": "null"
+    }, 
+    {
         "county": "Contra Costa", 
         "school_name": "A BETTER CHANCE SCHOOL/CAL AUTISM FOUNDATION", 
-        "address": "null"
-    }, 
-    {
-        "county": "Henry", 
-        "school_name": "ABC MONTESSORI ACADEMY FOR THE BRILLIANT CHILD", 
-        "address": "null"
-    }, 
-    {
-        "county": "Dickinson", 
-        "school_name": "ABILENE BAPTIST ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Montgomery", 
-        "school_name": "ACADEMY OF THE NEW CHURCH BOYS SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cedar", 
-        "school_name": "AGAPE BOARDING SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Pima", 
-        "school_name": "ALFARERO BAPTIST SCHOOLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Toombs", 
-        "school_name": "ALICE BLOUNT ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "San Mateo", 
-        "school_name": "ALPHA BEACON CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rockingham", 
-        "school_name": "AMAZING GRACE BAPTIST SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hot Spring", 
-        "school_name": "AMBASSADOR BAPTIST ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Washington", 
-        "school_name": "AMERICAN CHRISTIAN SCHOOL OF BARTLESVILLE", 
-        "address": "null"
-    }, 
-    {
-        "county": "Dubuque", 
-        "school_name": "ANNA B LAWTHER ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hamilton", 
-        "school_name": "ARCH BISHOP MOELLER HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Dodge", 
-        "school_name": "ARCHBISHOP BERGAN CATHOLIC SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Pulaski", 
-        "school_name": "ARKANSAS BAPTIST SCHOOL SYSTEM", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rockland", 
-        "school_name": "ATERES BAIS YAAKOV ACADEMY OF ROCKLAND", 
-        "address": "null"
-    }, 
-    {
-        "county": "Limestone", 
-        "school_name": "ATHENS BIBLE SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Palm Beach", 
-        "school_name": "ATLANTIS ACADEMY PALM BEACHES", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "B'NOT RACHEL HIGH SCHOOL FOR GIRLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Bradley", 
-        "school_name": "BACHMAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Virginia Beach", 
-        "school_name": "BACK BAY CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Bay", 
-        "school_name": "BACOT ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Milwaukee", 
-        "school_name": "BADGER STATE BAPTIST SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Los Angeles", 
-        "school_name": "BAIS CHANA CHABAD", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS FRUMA", 
-        "address": "null"
-    }, 
-    {
-        "county": "Ocean", 
-        "school_name": "BAIS KAILA TORAH PREPARATORY HIGH SCHOOL FOR GIRLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS ROCHEL SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS ROCHEL SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS SARAH-EDUC SCHOOL FOR GIRLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Ocean", 
-        "school_name": "BAIS SHAINDEL HIGH SCHOOL FOR GIRLS", 
         "address": "null"
     }, 
     {
@@ -155,163 +15,8 @@
         "address": "null"
     }, 
     {
-        "county": "Franklin", 
-        "school_name": "ABRAXAS LEADERSHIP DEVELOPMENT PROGRAM", 
-        "address": "null"
-    }, 
-    {
-        "county": "District Of Columbia", 
-        "school_name": "ACADEMIA DE LA RECTA PORTA ICDS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Middlesex", 
-        "school_name": "ACADEMY OF NOTRE DAME", 
-        "address": "null"
-    }, 
-    {
-        "county": "Delaware", 
-        "school_name": "ACADEMY-NOTRE DAME DE NAMUR", 
-        "address": "null"
-    }, 
-    {
-        "county": "Los Angeles", 
-        "school_name": "AGBU MANOOGIAN-DEMIRDJIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Boulder", 
-        "school_name": "ALEXANDER DAWSON SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hamilton", 
-        "school_name": "ALTERCREST DAY TREATMENT", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hartford", 
-        "school_name": "AMERICAN SCHOOL FOR THE DEAF", 
-        "address": "null"
-    }, 
-    {
-        "county": "Macomb", 
-        "school_name": "APPLE TREE DAYCARE CENTER", 
-        "address": "null"
-    }, 
-    {
-        "county": "Miami-dade", 
-        "school_name": "ARCHBISHOP CURLEY NOTRE DAME HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Gloucester", 
-        "school_name": "ARCHBISHOP DAMIANO SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Duval", 
-        "school_name": "ARLINGTON COUNTRY DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cook", 
-        "school_name": "ARLYN DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Fulton", 
-        "school_name": "ATLANTA COUNTRY DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Providence", 
-        "school_name": "BRADLEY SCHOOL-EAST PROVIDENCE", 
-        "address": "null"
-    }, 
-    {
-        "county": "Montgomery", 
-        "school_name": "CAMP E-KU-SUMEE", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rutland", 
-        "school_name": "CAMP E-WEN-AKEE", 
-        "address": "null"
-    }, 
-    {
-        "county": "Mesa", 
-        "school_name": "CHRISTIAN COMM SCHOOL - EAST CAMPUS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rockland", 
-        "school_name": "CONGREGATION NOAM E LIZENSK", 
-        "address": "null"
-    }, 
-    {
-        "county": "Lafourche", 
-        "school_name": "E D WHITE CATHOLIC HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Westchester", 
-        "school_name": "E F INTERNATIONAL ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Monroe", 
-        "school_name": "E STROUDSBURG CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Bristol", 
-        "school_name": "EAST BAY CAREER ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hillsborough", 
-        "school_name": "EAST BAY CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Caledonia", 
-        "school_name": "EAST BURKE SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hartford", 
-        "school_name": "EAST CATHOLIC HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Montgomery", 
-        "school_name": "EAST DAYTON CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Newport News", 
-        "school_name": "EAST END ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Henrico", 
-        "school_name": "EAST END CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Essex", 
-        "school_name": "1ST CEREBRAL PALSY OF NJ", 
-        "address": "null"
-    }, 
-    {
-        "county": "Maricopa", 
-        "school_name": "91ST PSALM CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Contra Costa", 
-        "school_name": "A BETTER CHANCE SCHOOL/CAL AUTISM FOUNDATION", 
+        "county": "Columbia", 
+        "school_name": "A PLUS LEARNING ACADEMY", 
         "address": "null"
     }, 
     {
@@ -320,8 +25,18 @@
         "address": "null"
     }, 
     {
+        "county": "Davison", 
+        "school_name": "ABBOTT HOUSE", 
+        "address": "null"
+    }, 
+    {
         "county": "Henry", 
         "school_name": "ABC MONTESSORI ACADEMY FOR THE BRILLIANT CHILD", 
+        "address": "null"
+    }, 
+    {
+        "county": "Escambia", 
+        "school_name": "ABEKA ACADEMY", 
         "address": "null"
     }, 
     {
@@ -335,8 +50,28 @@
         "address": "null"
     }, 
     {
+        "county": "Dickinson", 
+        "school_name": "ABILENE BAPTIST ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Montgomery", 
+        "school_name": "ABINGTON FRIENDS SCHOOL", 
+        "address": "null"
+    }, 
+    {
         "county": "Wayne", 
         "school_name": "ABM MINISTRIES-LIGHTHOUSE CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "New York", 
+        "school_name": "ABRAHAM JOSHUA HESCHEL HIGH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Franklin", 
+        "school_name": "ABRAXAS LEADERSHIP DEVELOPMENT PROGRAM", 
         "address": "null"
     }, 
     {
@@ -345,8 +80,23 @@
         "address": "null"
     }, 
     {
-        "county": "Pinellas", 
-        "school_name": "ABUNDANT LIFE CHRISTIAN ACADEMY", 
+        "county": "Lincoln", 
+        "school_name": "ABUNDANT LIFE ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Washington", 
+        "school_name": "ABUNDANT LIFE ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Jasper", 
+        "school_name": "ABUNDANT LIFE ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Essex", 
+        "school_name": "ABUNDANT LIFE ACADEMY", 
         "address": "null"
     }, 
     {
@@ -357,6 +107,16 @@
     {
         "county": "Clark", 
         "school_name": "ABUNDANT LIFE CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Pinellas", 
+        "school_name": "ABUNDANT LIFE CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Dane", 
+        "school_name": "ABUNDANT LIFE CHRISTIAN SCHOOL", 
         "address": "null"
     }, 
     {
@@ -375,458 +135,28 @@
         "address": "null"
     }, 
     {
-        "county": "Rockland", 
-        "school_name": "BAIS SHIFRA MIRIAM", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS YAAKOV ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rockland", 
-        "school_name": "BAIS YAAKOV D'RAV HIRSCH", 
-        "address": "null"
-    }, 
-    {
-        "county": "Baltimore", 
-        "school_name": "BAIS YAAKOV EVA WINER HIGH SCHOOL", 
+        "county": "Pulaski", 
+        "school_name": "ABUNDANT LIFE SCHOOL", 
         "address": "null"
     }, 
     {
         "county": "Cook", 
-        "school_name": "BAIS YAAKOV HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hennepin", 
-        "school_name": "BAIS YAAKOV HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Ocean", 
-        "school_name": "BAIS YAAKOV HIGH SCHOOL OF LAKEWOOD", 
-        "address": "null"
-    }, 
-    {
-        "county": "Middlesex", 
-        "school_name": "BAIS YAAKOV OF BOSTON HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "ST. Joseph", 
-        "school_name": "BAIS YAAKOV OF INDIANA", 
-        "address": "null"
-    }, 
-    {
-        "county": "Passaic", 
-        "school_name": "BAIS YAAKOV OF PASSAIC HIGH SCHOOL FOR GIRLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rockland", 
-        "school_name": "BAIS YAAKOV OF RAMAPO", 
-        "address": "null"
-    }, 
-    {
-        "county": "Lackawanna", 
-        "school_name": "BAIS YAAKOV OF SCRANTON", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS YAAKOV OZ VEHODOR", 
-        "address": "null"
-    }, 
-    {
-        "county": "Los Angeles", 
-        "school_name": "BAIS YAAKOV SCHOOL FOR GIRLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kings", 
-        "school_name": "BAIS YAKOV OF KHAL ADAS YEREIM", 
-        "address": "null"
-    }, 
-    {
-        "county": "Columbia", 
-        "school_name": "AUGUSTA PREPARATORY DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Windham", 
-        "school_name": "AUSTINE SCHOOL FOR THE DEAF", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rockland", 
-        "school_name": "BAIS YAAKOV D'RAV HIRSCH", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cook", 
-        "school_name": "BANNER THERAPEUTIC DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Denver", 
-        "school_name": "BANSBACH ACADEMY AT DENVER CHILDRENS HOME", 
+        "school_name": "ACACIA ACADEMY", 
         "address": "null"
     }, 
     {
         "county": "Orange", 
-        "school_name": "BEACON DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Norfolk", 
-        "school_name": "BEAVER COUNTRY DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Mifflin", 
-        "school_name": "BETH EL CHRISTIAN DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Baltimore", 
-        "school_name": "BETH TFILOH DAHAN COMMUNITY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Berks", 
-        "school_name": "BETHEL DUNKARD BRETHREN CHURCH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Essex", 
-        "school_name": "BEVERLY SCHOOL FOR THE DEAF", 
-        "address": "null"
-    }, 
-    {
-        "county": "Arlington", 
-        "school_name": "BISHOP DENIS J O'CONNELL HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "ST. Louis City", 
-        "school_name": "BISHOP DU BOURG HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Dallas", 
-        "school_name": "BISHOP DUNNE CATHOLIC SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Allen", 
-        "school_name": "BISHOP DWENGER HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Escambia", 
-        "school_name": "EAST HILL CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Linn", 
-        "school_name": "EAST LINN CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Autauga", 
-        "school_name": "EAST MEMORIAL CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rock Island", 
-        "school_name": "EAST MOLINE CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Somerset", 
-        "school_name": "EAST MOUNTAIN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Wayne", 
-        "school_name": "EAST PALMYRA CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Rankin", 
-        "school_name": "EAST RANKIN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Belmont", 
-        "school_name": "EAST RICHLAND CHRISTIAN SCHOOLS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Sullivan", 
-        "school_name": "EAST RIDGE SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Smith", 
-        "school_name": "EAST TEXAS CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Gregg", 
-        "school_name": "EAST TEXAS CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Carter", 
-        "school_name": "EAST TN CHRISTIAN HOME & ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Los Angeles", 
-        "school_name": "EAST VALLEY ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Orange", 
-        "school_name": "EAST VALLEY ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Santa Clara", 
-        "school_name": "EAST VALLEY CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Santa Barbara", 
-        "school_name": "BISHOP GARCIA DIEGO HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Suffolk", 
-        "school_name": "BISHOP MCGANN-MERCY DIOCESAN HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Alameda", 
-        "school_name": "BISHOP O DOWD HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Los Angeles", 
-        "school_name": "BNOS DEVORAH HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Shelby", 
-        "school_name": "BRUNSWICK DAY SCHOOL/LAKESIDE BEHAVIORAL HLTH CTR", 
-        "address": "null"
-    }, 
-    {
-        "county": "Des Moines", 
-        "school_name": "BURLINGTON NOTRE DAME JR/SR HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Chatham", 
-        "school_name": "CALVARY DAY SCHOOL", 
+        "school_name": "ACACIAWOOD SCHOOL", 
         "address": "null"
     }, 
     {
         "county": "Dekalb", 
-        "school_name": "CAMOLOT SCHOOLS-DEKALB CAMPUS", 
+        "school_name": "ACADEME OF THE OAKS", 
         "address": "null"
     }, 
     {
-        "county": "Buncombe", 
-        "school_name": "CAROLINA DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Hillsborough", 
-        "school_name": "CARROLLWOOD DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "New Haven", 
-        "school_name": "CCCD - CONNECTICUT CENTER FOR CHILD DEVELOPMENT", 
-        "address": "null"
-    }, 
-    {
-        "county": "Mecklenburg", 
-        "school_name": "CHARLOTTE COUNTRY DAY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "King", 
-        "school_name": "CHILDREN'S INSTITUTE FOR LEARNING DIFFERENCES", 
-        "address": "null"
-    }, 
-    {
-        "county": "ST. Clair", 
-        "school_name": "CHILDRENS CENTER FOR BEHAVIORAL DEVELOPMENT", 
-        "address": "null"
-    }, 
-    {
-        "county": "San Diego", 
-        "school_name": "CHILDRENS CREATIVE/PERFORMING ARTS ACAD SAN DIEGO", 
-        "address": "null"
-    }, 
-    {
-        "county": "Erie", 
-        "school_name": "BAKER VICTORY SERVICES", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kern", 
-        "school_name": "BAKERSFIELD ADVENTIST ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Kern", 
-        "school_name": "BAKERSFIELD CHRISTIAN HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cumberland", 
-        "school_name": "BAL-PERAZIM CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "San Diego", 
-        "school_name": "BALBOA CITY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Dallas", 
-        "school_name": "BALCH SPRINGS CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "ST. Croix", 
-        "school_name": "BALDWIN CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Palm Beach", 
-        "school_name": "BALDWIN PREP SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Monroe", 
-        "school_name": "BALLARD CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Baltimore", 
-        "school_name": "BALTIMORE ACTOR'S THEATRE - THE CONVERVATORY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Baltimore City", 
-        "school_name": "BALTIMORE LAB SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Baltimore", 
-        "school_name": "BALTIMORE LUTHERAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Worcester", 
-        "school_name": "BANCROFT SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Camden", 
-        "school_name": "BANCROFT SCHOOL AT VOORMEES PEDIATRIC FACILITY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Coos", 
-        "school_name": "BANDON PACIFIC CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Nassau", 
-        "school_name": "HARRIET E SNOW COMMUNITY SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Josephine", 
-        "school_name": "INN SIGHT ALTERNATIVE EDUCATION - EAST CAMPUS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Suffolk", 
-        "school_name": "LEONARD E BURKET CHRISTIAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Licking", 
-        "school_name": "LIBERTY CHRISTIAN ACADEMY-EAST CAMPUS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cook", 
-        "school_name": "LUTHER EAST HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cuyahoga", 
-        "school_name": "LUTHERAN HIGH SCHOOL EAST", 
-        "address": "null"
-    }, 
-    {
-        "county": "Montgomery", 
-        "school_name": "MACON EAST ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Shelby", 
-        "school_name": "MACON ROAD BAPTIST SCHOOL-EAST CAMPUS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Madison", 
-        "school_name": "METRO-EAST LUTHERAN HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Luzerne", 
-        "school_name": "MILFORD E BARNES JR SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Lee", 
-        "school_name": "ROBERT E LEE ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Monroe", 
-        "school_name": "STERLING EAST LAKESIDE SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Middlesex", 
-        "school_name": "STERLING EAST-BOSTON CAMPUS", 
-        "address": "null"
-    }, 
-    {
-        "county": "Cook", 
-        "school_name": "VIVIAN E SUMMERS ALTERNATIVE HIGH SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Wilson", 
-        "school_name": "W E GARNETT CHRISTIAN ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Dane", 
-        "school_name": "ABUNDANT LIFE CHRISTIAN SCHOOL", 
+        "county": "District Of Columbia", 
+        "school_name": "ACADEMIA DE LA RECTA PORTA ICDS", 
         "address": "null"
     }, 
     {
@@ -835,8 +165,138 @@
         "address": "null"
     }, 
     {
+        "county": "Palm Beach", 
+        "school_name": "ACADEMIC HIGH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "King", 
+        "school_name": "ACADEMIC INSTITUTE", 
+        "address": "null"
+    }, 
+    {
+        "county": "El Paso", 
+        "school_name": "ACADEMIC OPPORTUNITIES ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Yankton", 
+        "school_name": "ACADEMIC PROGRAM", 
+        "address": "null"
+    }, 
+    {
+        "county": "Davis", 
+        "school_name": "ACADEMY AT SOLSTICE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Hampshire", 
+        "school_name": "ACADEMY AT SWIFT RIVER", 
+        "address": "null"
+    }, 
+    {
+        "county": "Montgomery", 
+        "school_name": "ACADEMY FOR ACADEMIC EXCELLENCE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Jefferson", 
+        "school_name": "ACADEMY FOR INDIVIDUAL EXCELLENCE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Montgomery", 
+        "school_name": "ACADEMY FOR KEENER MINDS", 
+        "address": "null"
+    }, 
+    {
+        "county": "Clark", 
+        "school_name": "ACADEMY FOR LEARNING", 
+        "address": "null"
+    }, 
+    {
+        "county": "Philadelphia", 
+        "school_name": "ACADEMY IN MANAYUNK", 
+        "address": "null"
+    }, 
+    {
+        "county": "King", 
+        "school_name": "ACADEMY NW/FAMILY ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Los Angeles", 
+        "school_name": "ACADEMY OF AMHERST JR-SR HIGH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "New Hanover", 
+        "school_name": "ACADEMY OF EXCELLENCE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Iredell", 
+        "school_name": "ACADEMY OF EXCELLENCE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Hennepin", 
+        "school_name": "ACADEMY OF HOLY ANGELS", 
+        "address": "null"
+    }, 
+    {
+        "county": "Johnston", 
+        "school_name": "ACADEMY OF HOPE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Bronx", 
+        "school_name": "ACADEMY OF MT ST URSULA", 
+        "address": "null"
+    }, 
+    {
+        "county": "Middlesex", 
+        "school_name": "ACADEMY OF NOTRE DAME", 
+        "address": "null"
+    }, 
+    {
+        "county": "Jefferson", 
+        "school_name": "ACADEMY OF OUR LADY", 
+        "address": "null"
+    }, 
+    {
+        "county": "New Haven", 
+        "school_name": "ACADEMY OF OUR LADY OF MERCY - LAURALTON HALL", 
+        "address": "null"
+    }, 
+    {
+        "county": "San Diego", 
+        "school_name": "ACADEMY OF OUR LADY OF PEACE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Morris", 
+        "school_name": "ACADEMY OF SAINT ELIZABETH", 
+        "address": "null"
+    }, 
+    {
+        "county": "Bergen", 
+        "school_name": "ACADEMY OF THE HOLY ANGELS", 
+        "address": "null"
+    }, 
+    {
         "county": "Montgomery", 
         "school_name": "ACADEMY OF THE HOLY CROSS", 
+        "address": "null"
+    }, 
+    {
+        "county": "New London", 
+        "school_name": "ACADEMY OF THE HOLY FAMILY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Hillsborough", 
+        "school_name": "ACADEMY OF THE HOLY NAMES", 
         "address": "null"
     }, 
     {
@@ -850,8 +310,53 @@
         "address": "null"
     }, 
     {
+        "county": "Honolulu", 
+        "school_name": "ACADEMY OF THE PACIFIC", 
+        "address": "null"
+    }, 
+    {
+        "county": "Oakland", 
+        "school_name": "ACADEMY OF THE SACRED HEART", 
+        "address": "null"
+    }, 
+    {
+        "county": "Franklin", 
+        "school_name": "ACADEMY RANCH", 
+        "address": "null"
+    }, 
+    {
+        "county": "King", 
+        "school_name": "ACADEMY SCHOOLS", 
+        "address": "null"
+    }, 
+    {
+        "county": "Delaware", 
+        "school_name": "ACADEMY-NOTRE DAME DE NAMUR", 
+        "address": "null"
+    }, 
+    {
         "county": "Hancock", 
         "school_name": "ACADIA CHRISTIAN SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Maricopa", 
+        "school_name": "ACCEL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Denver", 
+        "school_name": "ACCELERATED SCHOOLS", 
+        "address": "null"
+    }, 
+    {
+        "county": "Johnson", 
+        "school_name": "ACCELERATED SCHOOLS OF OVERLAND PARK", 
+        "address": "null"
+    }, 
+    {
+        "county": "Fairfax", 
+        "school_name": "ACCOTINK ACADEMY", 
         "address": "null"
     }, 
     {
@@ -865,13 +370,43 @@
         "address": "null"
     }, 
     {
+        "county": "Santa Clara", 
+        "school_name": "ACHIEVE KIDS", 
+        "address": "null"
+    }, 
+    {
+        "county": "Monroe", 
+        "school_name": "ACHIEVEMENT ACADEMY OF MONROE", 
+        "address": "null"
+    }, 
+    {
         "county": "Sarasota", 
         "school_name": "ACHIEVEMENT CENTER (THE)", 
         "address": "null"
     }, 
     {
+        "county": "Miami-dade", 
+        "school_name": "ACHIEVERS ACADEMY HIGH SCHOOL", 
+        "address": "null"
+    }, 
+    {
         "county": "Bexar", 
         "school_name": "ACHIEVERS CENTER FOR EDUCATION", 
+        "address": "null"
+    }, 
+    {
+        "county": "Allegheny", 
+        "school_name": "ACLD TILLOTSON SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Chambers", 
+        "school_name": "ACTS ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Fairfax", 
+        "school_name": "AD FONTES ACADEMY", 
         "address": "null"
     }, 
     {
@@ -890,6 +425,21 @@
         "address": "null"
     }, 
     {
+        "county": "Fayette", 
+        "school_name": "ADELPHOI VILLAGE ACADEMY AT ALBERT GALLATIN", 
+        "address": "null"
+    }, 
+    {
+        "county": "Pinellas", 
+        "school_name": "ADMIRAL FARRAGUT ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Collier", 
+        "school_name": "ADONAI ACADEMY", 
+        "address": "null"
+    }, 
+    {
         "county": "Buncombe", 
         "school_name": "ADONAI CHRISTIAN ACADEMY", 
         "address": "null"
@@ -900,153 +450,303 @@
         "address": "null"
     }, 
     {
-        "county": "Berks", 
-        "school_name": "CHOR DAY ACADEMY", 
+        "county": "Los Angeles", 
+        "school_name": "ADVANTAGE PREPARATORY SCHOOLS", 
         "address": "null"
     }, 
     {
-        "county": "Jefferson", 
-        "school_name": "CHRIST DOMINION ACADEMY", 
+        "county": "Mcminn", 
+        "school_name": "ADVENT HOME LEARNING CENTER", 
         "address": "null"
     }, 
     {
         "county": "Montgomery", 
-        "school_name": "CHRISTOPHER DOCK MENNONITE HIGH SCHOOL", 
+        "school_name": "ADVENTIST CHRISTIAN ACADEMY OF TEXAS", 
         "address": "null"
     }, 
     {
-        "county": "Hamilton", 
-        "school_name": "CINCINNATI COUNTRY DAY SCHOOL", 
+        "county": "Cumberland", 
+        "school_name": "ADVENTIST CHRISTIAN SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Westchester", 
-        "school_name": "CLEARVIEW SCHOOL DAY TREATMENT", 
+        "county": "Lake", 
+        "school_name": "ADVENTURE CHRISTIAN ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "Hartford", 
-        "school_name": "CLINICAL DAY SCHOOL - MANCHESTER MEMORIAL HOSPITAL", 
+        "county": "Broward", 
+        "school_name": "AEF PREPARATORY SCHOOLS", 
         "address": "null"
     }, 
     {
-        "county": "Erie", 
-        "school_name": "COMMUNITY COUNTRY DAY SCHOOL", 
+        "county": "Orange", 
+        "school_name": "AGAPE ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "San Diego", 
-        "school_name": "COMPREHENSIVE ED SVS DBA ACES ACADEMY", 
+        "county": "Cedar", 
+        "school_name": "AGAPE BOARDING SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Greenville", 
-        "school_name": "CONESTEE BAPTIST DAY SCHOOL", 
+        "county": "Beaufort", 
+        "school_name": "AGAPE CHRISTIAN ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "New York", 
-        "school_name": "COOKE CENTER FOR LEARNING & DEVELOPMENT", 
+        "county": "Orange", 
+        "school_name": "AGAPE CHRISTIAN ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "Collin", 
-        "school_name": "CORAM DEO ACADEMY OF COLLIN COUNTY", 
+        "county": "Glades", 
+        "school_name": "AGAPE CHRISTIAN ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "Denton", 
-        "school_name": "CORAM DEO ACADEMY OF FLOWER MOUND", 
+        "county": "Sarasota", 
+        "school_name": "AGAPE CHRISTIAN SCHOOL OF SARASOTA", 
         "address": "null"
     }, 
     {
-        "county": "Union", 
-        "school_name": "CORNERSTONE DAY SCHOOL", 
+        "county": "Durham", 
+        "school_name": "AGAPE CORNER SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Riverside", 
-        "school_name": "COUNTRY DAY SCHOOL", 
+        "county": "Walworth", 
+        "school_name": "AGAPE SCHOOL FOR GIRLS", 
         "address": "null"
     }, 
     {
-        "county": "Delaware", 
-        "school_name": "COUNTRY DAY SCHOOL OF THE SACRED HEART", 
+        "county": "Los Angeles", 
+        "school_name": "AGBU MANOOGIAN-DEMIRDJIAN SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Penobscot", 
-        "school_name": "BANGOR CHRISTIAN SCHOOLS", 
+        "county": "Los Angeles", 
+        "school_name": "AGBU VATCHE AND TAMAR MANOUKIAN HIGH SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Cook", 
-        "school_name": "BANNER ACADEMY SOUTH", 
+        "county": "Alameda", 
+        "school_name": "AGNES MEMORIAL CHRISTIAN ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "Chesterfield", 
-        "school_name": "BANNER CHRISTIAN SCHOOL", 
+        "county": "Hertford", 
+        "school_name": "AHOSKIE CHRISTIAN SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Cook", 
-        "school_name": "BANNER THERAPEUTIC DAY SCHOOL", 
+        "county": "Aiken", 
+        "school_name": "AIKEN PREPARATORY SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Denver", 
-        "school_name": "BANSBACH ACADEMY AT DENVER CHILDRENS HOME", 
-        "address": "null"
-    }, 
-    {
-        "county": "Passaic", 
-        "school_name": "BANYAN SCHOOL", 
-        "address": "null"
-    }, 
-    {
-        "county": "Marion", 
-        "school_name": "BAPTIST ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "New London", 
-        "school_name": "BAPTIST BIBLE ACADEMY", 
-        "address": "null"
-    }, 
-    {
-        "county": "Riverside", 
-        "school_name": "BAPTIST CHRISTIAN SCHOOL", 
+        "county": "Philadelphia", 
+        "school_name": "AL AQSA ISLAMIC ACADEMY", 
         "address": "null"
     }, 
     {
         "county": "Wayne", 
-        "school_name": "BAPTIST PARK SCHOOL", 
+        "school_name": "AL IKHLAS TRAINING ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "Camden", 
-        "school_name": "BAPTIST REGIONAL SCHOOL", 
+        "county": "Los Angeles", 
+        "school_name": "AL MADINAH SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "Buchanan", 
-        "school_name": "BAPTIST TEMPLE SCHOOLS", 
+        "county": "Sacramento", 
+        "school_name": "AL-ARQAM ISLAMIC SCHOOL", 
         "address": "null"
     }, 
     {
-        "county": "ST. Louis", 
-        "school_name": "BARAT ACADEMY", 
+        "county": "Harris", 
+        "school_name": "AL-HADI SCHOOL OF ACCELERATIVE LEARNING", 
         "address": "null"
     }, 
     {
-        "county": "ST. Lucie", 
-        "school_name": "BARNABAS CHRISTIAN ACADEMY", 
+        "county": "Tarrant", 
+        "school_name": "AL-HEDAYAH ACADEMY", 
         "address": "null"
     }, 
     {
-        "county": "Hart", 
-        "school_name": "BARNES ACADEMY", 
+        "county": "Prince George's", 
+        "school_name": "AL-HUDA SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Passaic", 
+        "school_name": "AL-HUDA SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Queens", 
+        "school_name": "AL-IHSAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Wayne", 
+        "school_name": "AL-IHSAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Mobile", 
+        "school_name": "AL-IMAN ACADEMY OF MOBILE", 
+        "address": "null"
+    }, 
+    {
+        "county": "Queens", 
+        "school_name": "AL-IMAN SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Kings", 
+        "school_name": "AL-MADINAH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Bristol", 
+        "school_name": "AL-NOOR ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Kings", 
+        "school_name": "AL-NOOR SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Fairfax", 
+        "school_name": "AL-QALAM SCHOOL OF VIRGINIA", 
+        "address": "null"
+    }, 
+    {
+        "county": "Baltimore", 
+        "school_name": "AL-RAHMAH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Montgomery", 
+        "school_name": "ALABAMA CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Baldwin", 
+        "school_name": "ALABAMA GULF COAST CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Alamance", 
+        "school_name": "ALAMANCE CHRISTIAN SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Socorro", 
+        "school_name": "ALAMO NAVAJO COMMUNITY SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Pasquotank", 
+        "school_name": "ALBEMARLE SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Rockland", 
+        "school_name": "ALBERTUS MAGNUS HIGH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Bernalillo", 
+        "school_name": "ALBUQUERQUE ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Sacramento", 
+        "school_name": "ALDAR ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Napa", 
+        "school_name": "ALDEA SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Volusia", 
+        "school_name": "ALDERSGATE ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Hamilton", 
+        "school_name": "ALDERSGATE CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Parker", 
+        "school_name": "ALEDO CHRISTIAN SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Escambia", 
+        "school_name": "ALETHEIA CHRISTIAN ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Boulder", 
+        "school_name": "ALEXANDER DAWSON SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Harris", 
+        "school_name": "ALEXANDER-SMITH ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Alexandria", 
+        "school_name": "ALEXANDRIA FRIENDS SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Pima", 
+        "school_name": "ALFARERO BAPTIST SCHOOLS", 
+        "address": "null"
+    }, 
+    {
+        "county": "Whatcom", 
+        "school_name": "ALGER LEARNING CENTER & INDEPENDENCE HIGH SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Kent", 
+        "school_name": "ALGOMA CHRISTIAN SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Los Angeles", 
+        "school_name": "ALHADI SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Toombs", 
+        "school_name": "ALICE BLOUNT ACADEMY", 
+        "address": "null"
+    }, 
+    {
+        "county": "Jim Wells", 
+        "school_name": "ALICE CHRISTIAN SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Essex", 
+        "school_name": "ALIF MUHAMMAD'S NIA SCHOOL", 
+        "address": "null"
+    }, 
+    {
+        "county": "Bronx", 
+        "school_name": "ALL HALLOWS HIGH SCHOOL", 
         "address": "null"
     }
 ]
