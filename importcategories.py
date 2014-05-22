@@ -41,14 +41,13 @@ def callback(query, message):
 # Issue queries to your data sources and with your inputs
 # You can modify the inputs and connectorGuids so as to query your own sources
 
-# Query for collegelist_test
-# Query for tile US Private Schools
+# Query for tile US Colleges -- includes school_name, school_address, and school_categories
 client.query({
   "connectorGuids": [
-    "6fcbcfc9-dbea-4879-8004-ed6f5ba1f3e1"
+    "c3b35c61-2f13-4319-8761-b30946cd53bb"
   ],
   "input": {
-    "school_name": "a"
+    "webpage/url": "http://www.noodle.org/colleges"
   }
 }, callback)
 
@@ -66,7 +65,8 @@ client.disconnect()
 
 # Now we can print out the data we got
 print "All data received:"
-print json.dumps(dataRows, indent = 4)
+# uncomment below if you want to see data
+#print json.dumps(dataRows, indent = 4)
 
 with open("importcategories.json", 'w') as f:
   json.dump(dataRows, f, indent=4)
